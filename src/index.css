@@ -1,0 +1,207 @@
+@import "tailwindcss";
+
+/* Active Navigation Link */
+a.active {
+  @apply text-rose-600 border-b-2 border-rose-600;
+}
+
+/* Blog Content Container - Wedding Theme */
+.blog-content-container {
+  @apply text-lg p-6 bg-rose-50 border-2 border-rose-200 rounded-xl shadow-sm;
+}
+
+.blog-content-container p {
+  @apply mb-4 text-gray-800 leading-relaxed;
+}
+
+.blog-content-container ul {
+  @apply mb-4;
+}
+
+.blog-content-container li {
+  @apply mb-2 text-gray-700;
+}
+
+/* Custom Rich Text Editor - Wedding Theme */
+.control-group {
+  @apply p-4 rounded-t-xl border-2 border-rose-200 bg-gradient-to-r from-rose-50 to-pink-50;
+}
+
+.control-group .button-group {
+  @apply flex gap-2 flex-wrap;
+}
+
+.button-group button {
+  @apply border-2 border-rose-200 p-2 rounded-lg bg-white hover:bg-rose-50 transition-colors;
+}
+
+.button-group button.is-active {
+  @apply bg-gradient-to-r from-rose-500 to-pink-500 text-white border-rose-500;
+}
+
+.button-group button:disabled {
+  @apply bg-gray-100 text-gray-400 border-gray-200 cursor-not-allowed;
+}
+
+/* Tiptap Editor - Wedding Theme */
+.tiptap {
+  @apply border-2 border-rose-200 rounded-b-xl p-6 min-h-[300px] focus:outline-none focus:border-rose-400 focus:ring-2 focus:ring-rose-200 bg-white;
+}
+
+.tiptap p {
+  @apply mb-4 text-base leading-relaxed text-gray-800;
+}
+
+.tiptap h1 {
+  @apply text-3xl font-serif font-bold mb-4 text-rose-900;
+}
+
+.tiptap h2 {
+  @apply text-2xl font-serif font-semibold mb-3 text-rose-800;
+}
+
+.tiptap h3 {
+  @apply text-xl font-semibold mb-2 text-rose-700;
+}
+
+.tiptap ul {
+  @apply list-disc pl-6 mb-4 text-gray-700;
+}
+
+.tiptap ol {
+  @apply list-decimal pl-6 mb-4 text-gray-700;
+}
+
+.tiptap li {
+  @apply mb-2;
+}
+
+.tiptap blockquote {
+  @apply border-l-4 border-rose-400 pl-6 py-2 italic text-gray-700 mb-4 bg-rose-50 rounded-r-lg;
+}
+
+.tiptap strong {
+  @apply font-semibold text-gray-900;
+}
+
+.tiptap em {
+  @apply italic text-gray-700;
+}
+
+.tiptap a {
+  @apply text-rose-600 hover:text-rose-700 underline;
+}
+
+/* Custom Scrollbar - Wedding Theme */
+::-webkit-scrollbar {
+  @apply w-2;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-rose-50;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-rose-300 rounded-full hover:bg-rose-400;
+}
+
+/* Selection Color - Wedding Theme */
+::selection {
+  @apply bg-rose-200 text-rose-900;
+}
+
+::-moz-selection {
+  @apply bg-rose-200 text-rose-900;
+}
+
+/* Card Hover Effects */
+.wedding-card {
+  @apply transition-all duration-300 hover:scale-105 hover:shadow-xl;
+}
+
+/* Button Animations */
+.wedding-button {
+  @apply transition-all duration-300 transform hover:scale-105 active:scale-95;
+}
+
+/* Gradient Text */
+.gradient-text {
+  @apply bg-gradient-to-r from-rose-600 to-pink-600 bg-clip-text text-transparent;
+}
+
+/* Loading Animation */
+@keyframes pulse-rose {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+.pulse-rose {
+  animation: pulse-rose 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+/* Form Inputs - Wedding Theme */
+input[type="text"],
+input[type="email"],
+input[type="password"],
+textarea,
+select {
+  @apply border-2 border-rose-200 rounded-lg px-4 py-2 focus:outline-none focus:border-rose-400 focus:ring-2 focus:ring-rose-200 transition-all;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="password"]:focus,
+textarea:focus,
+select:focus {
+  @apply bg-rose-50;
+}
+
+/* Labels */
+label {
+  @apply text-gray-700 font-medium mb-2 block;
+}
+
+/* Error States */
+.error-message {
+  @apply text-rose-600 text-sm mt-1;
+}
+
+.input-error {
+  @apply border-rose-500 focus:border-rose-600 focus:ring-rose-300;
+}
+
+/* Success States */
+.success-message {
+  @apply text-green-600 text-sm mt-1;
+}
+
+/* Badge Styles */
+.badge {
+  @apply inline-block px-3 py-1 rounded-full text-sm font-medium;
+}
+
+.badge-primary {
+  @apply bg-rose-100 text-rose-700 border border-rose-300;
+}
+
+.badge-secondary {
+  @apply bg-pink-100 text-pink-700 border border-pink-300;
+}
+
+/* Divider */
+.divider {
+  @apply border-t-2 border-rose-200 my-8;
+}
+
+/* Shadow Utilities */
+.shadow-rose {
+  box-shadow: 0 4px 6px -1px rgba(244, 63, 94, 0.1), 0 2px 4px -1px rgba(244, 63, 94, 0.06);
+}
+
+.shadow-rose-lg {
+  box-shadow: 0 10px 15px -3px rgba(244, 63, 94, 0.1), 0 4px 6px -2px rgba(244, 63, 94, 0.05);
+}
