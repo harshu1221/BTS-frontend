@@ -75,7 +75,7 @@ const themes = [
     title: "Rustic Barn Celebration",
     description: "Wood textures and warm fairy lights.",
     image:
-      "https://images.unsplash.com/photo-1489515217757-5fd1be406fef?w=800&q=80",
+      "https://cdn0.weddingwire.com/article/3138/original/1280/jpg/8313-2-a-rustic-affair-rustic-wedding-centerpieces.jpeg",
     category: "outdoor",
   },
   {
@@ -83,7 +83,7 @@ const themes = [
     title: "Royal Palace Affair",
     description: "Regal luxury inspired by royal courts.",
     image:
-      "https://images.unsplash.com/photo-1469975692758-74cddd2e4f0b?w=800&q=80",
+      "https://assets.anantara.com/image/upload/q_auto,f_auto,c_limit,w_756/media/minor/anantara/images/anantara-jewel-bagh-jaipur-hotel/05_wedding_ok/1g6a8181.jpg",
     category: "indoor",
   },
   {
@@ -91,7 +91,7 @@ const themes = [
     title: "Forest Enchantment",
     description: "Woodland magic with greenery and candles.",
     image:
-      "https://images.unsplash.com/photo-1519741497674-611481863552?w=800&q=80",
+      "https://images.stockcake.com/public/8/b/0/8b0a37b8-5073-43a8-b769-50aebb837f43_large/enchanted-forest-wedding-stockcake.jpg",
     category: "outdoor",
   },
   {
@@ -99,7 +99,7 @@ const themes = [
     title: "Classic Church Ceremony",
     description: "Historic churches with stained glass windows.",
     image:
-      "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=800&q=80",
+      "https://i.pinimg.com/736x/ff/c8/74/ffc874e86e6b7728e7885b31ac05bd52.jpg",
     category: "classic",
   },
   {
@@ -107,7 +107,7 @@ const themes = [
     title: "City Skyline Soirée",
     description: "Rooftop skyline views and modern decor.",
     image:
-      "https://images.unsplash.com/photo-1529634806980-cd3def456a02?w=800&q=80",
+      "https://www.thefusiondecor.com/uploads/blog-images/1703257349_Sky-High-Love.jpg",
     category: "indoor",
   },
   {
@@ -115,7 +115,7 @@ const themes = [
     title: "Desert Sunset Vows",
     description: "Golden sands and orange sunset hues.",
     image:
-      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800&q=80",
+      "https://i.pinimg.com/736x/ae/08/fd/ae08fd792a2e278b6d4d2ce41cc03116.jpg",
     category: "outdoor",
   },
   {
@@ -123,7 +123,7 @@ const themes = [
     title: "Winter Wonderland",
     description: "Snowy elegance with icy blue tones.",
     image:
-      "https://images.unsplash.com/photo-1519741497674-611481863552?w=800&q=80",
+      "https://i.pinimg.com/736x/23/71/e5/2371e5a3d9018f8d637b90b017d5074f.jpg",
     category: "classic",
   },
   {
@@ -131,7 +131,7 @@ const themes = [
     title: "Tropical Paradise",
     description: "Palm trees, ocean breeze, vibrant florals.",
     image:
-      "https://images.unsplash.com/photo-1519821172141-b5d8c53c4a05?w=800&q=80",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7BvAchN8pbys3zBBF6g1yaL5wxZl46i2YJw&s",
     category: "outdoor",
   },
   {
@@ -139,7 +139,7 @@ const themes = [
     title: "Art Gallery Chic",
     description: "Modern minimalist aesthetics and fine art.",
     image:
-      "https://images.unsplash.com/photo-1526498460520-4c246339dccb?w=800&q=80",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3lwuKQf7h1HvNUEIyqpv835Ao8QeqXySvew&s",
     category: "indoor",
   },
   {
@@ -147,7 +147,7 @@ const themes = [
     title: "Fairytale Castle",
     description: "Vintage romance inside majestic castles.",
     image:
-      "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800&q=80",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBV_5r5rnO5QfTOONJyn3niL4H4VjpYkv01w&s",
     category: "classic",
   },
   {
@@ -155,7 +155,7 @@ const themes = [
     title: "Lakeside Serenity",
     description: "Golden sunsets and peaceful waterside decor.",
     image:
-      "https://images.unsplash.com/photo-1489515217757-5fd1be406fef?w=800&q=80",
+      "https://cdn0.weddingwire.com/article/3138/original/1280/jpg/8313-2-a-rustic-affair-rustic-wedding-centerpieces.jpeg",
     category: "outdoor",
   },
   {
@@ -163,7 +163,7 @@ const themes = [
     title: "Industrial Loft",
     description: "Exposed brick and warm industrial lighting.",
     image:
-      "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?w=800&q=80",
+      "https://cdn0.weddingwire.in/vendor/4280/3_2/960/jpg/seven-seas-hotel-rohini-11_15_54280-1555334764.jpeg",
     category: "indoor",
   },
   {
@@ -171,7 +171,7 @@ const themes = [
     title: "Carnival of Love",
     description: "Colorful fun-filled carnival vibes.",
     image:
-      "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=800&q=80",
+      "https://www.marriagecolours.com/wp-content/uploads/2025/02/Sanjhana-Aebel-Ashtamudi-Haldi-38.jpg",
     category: "outdoor",
   },
   {
@@ -179,7 +179,7 @@ const themes = [
     title: "Garden High-Tea",
     description: "Soft pastel palettes and elegant floral china.",
     image:
-      "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?w=800&q=80",
+      "https://www.peerspace.com/resources/wp-content/uploads/Victorian-Rococo-Dollhouse-Themed-Tea-Room-south-miami-rental.jpg",
     category: "classic",
   },
   {
@@ -187,7 +187,7 @@ const themes = [
     title: "Bollywood Glam",
     description: "Vibrant colors and cinematic effects.",
     image:
-      "https://images.unsplash.com/photo-1533107862482-0e6974b06ec4?w=800&q=80",
+      "https://weddingsutra.com/images/simran-ashish-thumb.jpg",
     category: "indoor",
   },
   {
@@ -195,7 +195,7 @@ const themes = [
     title: "Pastel Dream",
     description: "Soft pinks, blues, and dreamy tones.",
     image:
-      "https://images.unsplash.com/photo-1529634806980-cd3def456a02?w=800&q=80",
+      "https://styl-inc.com/wp-content/uploads/2021/03/Pastel-Wedding-Decorations-10.jpg",
     category: "classic",
   },
   {
@@ -203,7 +203,7 @@ const themes = [
     title: "Night Garden Sparkle",
     description: "Candle-lit pathways and soft lantern decor.",
     image:
-      "https://images.unsplash.com/photo-1496309732348-3627f3f040ee?w=800&q=80",
+      "https://img.freepik.com/premium-photo/indian-wedding-light-decoration_221414-1490.jpg",
     category: "outdoor",
   },
   {
@@ -211,7 +211,7 @@ const themes = [
     title: "Vintage Bollywood",
     description: "Retro cinematic aesthetics.",
     image:
-      "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=800&q=80",
+      "https://cdn0.weddingwire.in/article/9732/original/1280/jpg/52379-vintagetheme-gautamkhullarphotography-lead.jpeg",
     category: "classic",
   },
   {
@@ -219,7 +219,7 @@ const themes = [
     title: "Minimal White",
     description: "Pure white elegance with clean geometry.",
     image:
-      "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=800&q=80",
+      "https://destinationweddingsindia.com/wp-content/uploads/2024/08/Engagement-Themes.jpg",
     category: "indoor",
   },
   {
@@ -227,7 +227,7 @@ const themes = [
     title: "Color Pop Carnival",
     description: "Bright colors and fun props.",
     image:
-      "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?w=800&q=80",
+      "https://weddingsutra.com/images/wedding-images/blog-images/hannah-vidhur/hannah-vidhur-01.jpg",
     category: "outdoor",
   },
   {
@@ -235,7 +235,7 @@ const themes = [
     title: "Heritage Haveli",
     description: "Traditional Indian architecture and culture.",
     image:
-      "https://images.unsplash.com/photo-1470162656305-6f429ba817bf?w=800&q=80",
+      "https://static.wixstatic.com/media/794597_e5d53824fe57464eadc910cabfd137f7~mv2.jpg/v1/fill/w_640,h_386,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/794597_e5d53824fe57464eadc910cabfd137f7~mv2.jpg",
     category: "classic",
   },
   {
@@ -243,7 +243,7 @@ const themes = [
     title: "Poolside Party",
     description: "Summer poolside luxury vibes.",
     image:
-      "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=800&q=80",
+      "https://img.weddingbazaar.com/photos/pictures/001/690/677/new_medium/88197189_581614689233541_1682559208406061089_n.jpg?1586767489",
     category: "outdoor",
   },
   {
@@ -251,7 +251,7 @@ const themes = [
     title: "Library of Love",
     description: "Aesthetic book-themed vintage decor.",
     image:
-      "https://images.unsplash.com/photo-1513475382585-d06e58bcb0ea?w=800&q=80",
+      "https://image.wedmegood.com/resized/720X/uploads/member/3068665/1678440538_Screenshot_2023_03_10_122821.jpg?crop=107,124,792,446",
     category: "indoor",
   },
   {
@@ -259,7 +259,7 @@ const themes = [
     title: "Starry Tent Night",
     description: "Open sky tent with dreamy fairy lights.",
     image:
-      "https://images.unsplash.com/photo-1521334884684-d80222895322?w=800&q=80",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHwEbCc2fkhIxVVryn6wMPjM2uBMLcB4qewg&s",
     category: "outdoor",
   },
 ];

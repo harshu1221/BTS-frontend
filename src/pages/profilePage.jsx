@@ -165,7 +165,7 @@ const ProfilePage = () => {
                 <h1 className="text-3xl md:text-4xl font-serif font-bold text-rose-900">
                   {user.username}
                 </h1>
-                <button className="flex items-center gap-2 bg-gradient-to-r from-rose-500 to-pink-500 hover:from-rose-600 hover:to-pink-600 text-white px-6 py-3 rounded-full transition-all shadow-md hover:shadow-lg text-sm font-semibold">
+                <button onClick={() => navigate("/editprofile")} className="flex items-center gap-2 bg-gradient-to-r from-rose-500 to-pink-500 hover:from-rose-600 hover:to-pink-600 text-white px-6 py-3 rounded-full transition-all shadow-md hover:shadow-lg text-sm font-semibold">
                   <Edit className="w-4 h-4" />
                   Edit Profile
                 </button>
